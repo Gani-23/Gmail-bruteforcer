@@ -16,6 +16,7 @@ python gmail.py
 
 +++ Enter Target ID/MAIL +++
 +++ Enter Password file name that cupp created +++
+Note: make sure you make password.txt in same folder 
 note: even extension like txt should be added 
 
 example:
