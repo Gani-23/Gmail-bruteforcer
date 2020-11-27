@@ -1,7 +1,9 @@
 Quick start
 -----------
-Usage1:
-##CUPP
+# Usage1:
+
+
+# CUPP
 
 step1: Get to know victim mentally 
 
@@ -9,7 +11,7 @@ step2: execute cupp and fill data of target/victim
 
 step3: remember the password file name 
 
-#Gmail.py
+# Gmail.py
 
 step4: execute gmail.py by 
 
@@ -18,26 +20,21 @@ chmod 777 gmail.py
 python gmail.py
 
 
-#Target Mail
+# Target Mail
 
-+++ Enter Password file name that cupp created +++
+# +++ Enter Password file name that cupp created +++
 
 Note: make sure you make password.txt in same folder 
 
 note: even extension like txt should be added 
 
-#example:
+# example:
 
 Enter password file Name:<name>.txt
-
-
-
-
 You need Python 3 to run CUPP.
 
 
-
-    $ python3 cupp.py -h
+# python3 cupp.py -h
 
 ## Options
 
