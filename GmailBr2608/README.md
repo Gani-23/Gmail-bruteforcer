@@ -1,7 +1,7 @@
 Quick start
 -----------
 Usage1:
-#CUPP
+##CUPP
 
 step1: Get to know victim mentally 
 
